@@ -1,0 +1,17 @@
+body {
+	// this is a line comment
+	/* this is a block comment*/
+	background-color: #2BD02B#e5e5e5; /*// if all then numbers or letters are the same you can shorten*/
+}
+
+h3 {
+	color: #2BD02B;	
+}
+
+div {
+	margin: 20px;
+}
+
+Span {
+	font-weight: bold;
+}
